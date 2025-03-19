@@ -19,4 +19,4 @@ Use this module at your own risk. It is your own responsibility to properly mask
 A demo project can be found at https://login374-sandbox.mxapps.io/index.html?profile=Responsive
 
 ## Contribute
-If you want to contribute to this module, put in a request or pull request via github (https://github.com/WebFlight/Login).
+If you want to contribute to this module, put in a request or pull request via github (https://github.com/Ciphix/Login).
